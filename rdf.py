@@ -6,7 +6,4 @@ import time, glob
 
 files = glob.glob("f_jsonld/*.jsonld")
 
-for filename in files:
-
-    print(filename)
 
